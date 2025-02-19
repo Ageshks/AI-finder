@@ -3,6 +3,8 @@ AI Camera Radar - App Summary
 Overview:
 AI Camera Radar is a Flutter-based mobile application that tracks a user's real-time location and notifies them when they are near an AI-powered camera. The app continuously monitors GPS coordinates and fetches data from an external API to detect nearby AI cameras.
 
+##currently it is the backend code frontend code will upload soon
+
 Key Features:
 ✅ Real-Time Location Tracking – Uses GPS to track user movement.
 ✅ AI Camera Detection – Calls an API to check for nearby AI cameras.
